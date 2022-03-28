@@ -55,7 +55,7 @@ body {
   border-top-left-radius: var(--radius);
   border-top-right-radius: var(--radius);
 }
-.title h2 {
+.title h1 {
   font-family: var(--ff-prim);
   margin: 0 auto;
   text-align: center;
@@ -65,7 +65,7 @@ body {
 }
 .title p {
   font-family: var(--ff-prim);
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   text-align: center;
   color: var(--secon-a2);
   font-weight: 500;
