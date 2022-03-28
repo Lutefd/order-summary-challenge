@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](ordersumchpj.netlify.app)
 
 ## My process
 
@@ -56,6 +56,8 @@ I loved being able to properly design the plans section visualing the grid lines
   <a href="#">Change</a>
 </section>
 ```
+
+I'm really happy i managed to style this
 
 ```css
 .plans {
