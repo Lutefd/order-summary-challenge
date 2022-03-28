@@ -56,7 +56,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  max-width: 100vw;
 }
 .hero img {
   border-top-left-radius: var(--radius);
