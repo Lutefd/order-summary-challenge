@@ -31,7 +31,7 @@ img {
   display: block;
 }
 body {
-  background: url("../images/pattern-background-desktop.svg");
+  background: url("./images/pattern-background-mobile.svg");
   background-size: 100%;
   background-repeat: no-repeat;
   background-color: var(--Prim-1);
@@ -40,7 +40,14 @@ body {
   display: grid;
   place-items: center;
 }
-
+@media screen and (min-width: 768px) {
+  body {
+    background: url(/images/pattern-background-desktop.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: var(--Prim-1);
+  }
+}
 .container {
   background: white;
   height: 38rem;
