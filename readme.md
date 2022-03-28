@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](ordersumchpj.netlify.app)
+- Solution URL:(https://www.frontendmentor.io/solutions/order-summary-using-css-flexbox-and-grid-HJXfRnAGq)
+- Live Site URL:(https://ordersumchpj.netlify.app/)
 
 ## My process
 
